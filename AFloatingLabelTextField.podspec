@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/akash-sisodia/AFloatingLabelTextField'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'akash-sisodia' => 'akash.sisodia@netgear.com' }
+  s.author           = { 'akash-sisodia' => 'akashsisodia.singh@gmail.com' }
   s.source           = { :git => 'https://github.com/akash-sisodia/AFloatingLabelTextField.git', :tag => s.version.to_s }
   s.social_media_url = 'https://stackoverflow.com/users/8196100/akash-singh-sisodia'
   s.swift_version = '5.0'

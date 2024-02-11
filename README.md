@@ -22,7 +22,7 @@ pod 'AFloatingLabelTextField'
 
 ## Author
 
-akash-sisodia, akash.sisodia@netgear.com
+akash-sisodia, akashsisodia.singh@gmail.com
 
 ## License
 

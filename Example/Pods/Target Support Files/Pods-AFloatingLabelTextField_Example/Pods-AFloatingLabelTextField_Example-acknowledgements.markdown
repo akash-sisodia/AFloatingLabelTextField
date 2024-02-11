@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## AFloatingLabelTextField
 
-Copyright (c) 2024 akash-sisodia <akash.sisodia@netgear.com>
+Copyright (c) 2024 akash-sisodia <akashsisodia.singh@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
