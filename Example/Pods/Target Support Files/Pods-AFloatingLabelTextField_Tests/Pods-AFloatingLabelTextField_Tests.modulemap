@@ -1,0 +1,6 @@
+framework module Pods_AFloatingLabelTextField_Tests {
+  umbrella header "Pods-AFloatingLabelTextField_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
