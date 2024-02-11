@@ -27,6 +27,13 @@ it, simply add the following line to your Podfile:
 pod 'AFloatingLabelTextField'
 ```
 
+AFloatingLabelTextField is also available through Swift Package Manager. To install it, simply add the following url to your target:
+
+
+```SPM
+https://github.com/akash-sisodia/AFloatingLabelTextField
+```
+
 ## Author
 
 akash-sisodia 
