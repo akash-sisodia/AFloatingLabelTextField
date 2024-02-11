@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AFloatingLabelTextField'
-  s.version          = '1.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'AFloatingLabelTextField is a Swift class that enables a floating placeholder effect in UITextField, enhancing user experience and clarity of text input fields.'
 
   s.description      = <<-DESC
