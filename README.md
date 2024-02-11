@@ -12,7 +12,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## ScreenRecord
 
 
-https://github.com/akash-sisodia/AFloatingLabelTextField/assets/29544539/88d3598c-f691-4130-8288-16ae22667ce5
+
+https://github.com/akash-sisodia/AFloatingLabelTextField/assets/29544539/4885a160-dc97-4998-97a0-dd4f8028e581
+
+
 
 
 ## Installation
