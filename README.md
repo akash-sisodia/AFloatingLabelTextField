@@ -9,7 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## ScreenRecord
+
+
+https://github.com/akash-sisodia/AFloatingLabelTextField/assets/29544539/88d3598c-f691-4130-8288-16ae22667ce5
+
 
 ## Installation
 
@@ -22,7 +26,8 @@ pod 'AFloatingLabelTextField'
 
 ## Author
 
-akash-sisodia, akashsisodia.singh@gmail.com
+akash-sisodia 
+akashsisodia.singh@gmail.com
 
 ## License
 
