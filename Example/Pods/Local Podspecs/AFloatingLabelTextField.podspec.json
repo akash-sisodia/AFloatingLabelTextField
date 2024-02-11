@@ -1,0 +1,22 @@
+{
+  "name": "AFloatingLabelTextField",
+  "version": "0.1.0",
+  "summary": "A short description of AFloatingLabelTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/akash-sisodia/AFloatingLabelTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "akash-sisodia": "akash.sisodia@netgear.com"
+  },
+  "source": {
+    "git": "https://github.com/akash-sisodia/AFloatingLabelTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AFloatingLabelTextField/Classes/**/*"
+}

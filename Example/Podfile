@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AFloatingLabelTextField_Example' do
+  pod 'AFloatingLabelTextField', :path => '../'
+
+  target 'AFloatingLabelTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
